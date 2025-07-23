@@ -1,0 +1,155 @@
+[
+    {
+    "id": "mt",
+    "company": "jw marriott",
+    "address": "Jl. DR. Ide Anak Agung Gde Agung No.1&2 Kav. E1.2, Kuningan, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+    "phone_number": "(021) 57988888",
+    "gmaps": "https://maps.app.goo.gl/NvHAfViTmhrxkobt7",
+    "habbits": {
+        "base": {
+        "shift_1": "",
+        "shift_2": "",
+        "single_shift": "",
+        "goldenbird_standby": "",
+        "silverbird_standby": ""
+        },
+        "dispatcher": {
+        "eat": "",
+        "parking": "",
+        "easy_pay": "",
+        "whatsapp_group": ""
+        },
+        "payment_standard": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": "",
+        "bigbird": ""
+        },
+        "package_price_list": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": "",
+        "bigbird": ""
+        },
+        "dedicate_services": {
+        "goldenbird": "",
+        "silverbird": ""
+        },
+        "complimentary_services": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": ""
+        },
+        "caution": {
+        "caution_1": "",
+        "caution_2": ""
+        },
+        "note": {
+        "note_1": "",
+        "note_2": ""
+        }
+    }
+    },
+    {
+    "id": "sj",
+    "company": "the st regis jakarta",
+    "address": "Rajawali Place, Jl. H. R. Rasuna Said No.4 Blok Kav. B, Kuningan, Setia Budi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910",
+    "phone_number": "(021) 50948888",
+    "gmaps": "https://maps.app.goo.gl/D7LLqKRijuxdJZc58",
+    "habbits": {
+        "base": {
+        "shift_1": "",
+        "shift_2": "",
+        "single_shift": "",
+        "goldenbird_standby": "",
+        "silverbird_standby": ""
+        },
+        "dispatcher": {
+        "eat": "",
+        "parking": "",
+        "easy_pay": "",
+        "whatsapp_group": ""
+        },
+        "payment_standard": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": "",
+        "bigbird": ""
+        },
+        "package_price_list": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": "",
+        "bigbird": ""
+        },
+        "dedicate_services": {
+        "goldenbird": "",
+        "silverbird": ""
+        },
+        "complimentary_services": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": ""
+        },
+        "caution": {
+        "caution_1": "",
+        "caution_2": ""
+        },
+        "note": {
+        "note_1": "",
+        "note_2": ""
+        }
+    }
+    },
+    {
+    "id": "wt",
+    "company": "the westin jakarta",
+    "address": "Jl. H. R. Rasuna Said No.Kav.C-22A, RT.2/RW.5, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+    "phone_number": "(021) 27887788",
+    "gmaps": "https://maps.app.goo.gl/uQASzy26Ezd5Cdaf7",
+    "habbits": {
+        "base": {
+        "shift_1": "",
+        "shift_2": "",
+        "single_shift": "",
+        "goldenbird_standby": "",
+        "silverbird_standby": ""
+        },
+        "dispatcher": {
+        "eat": "",
+        "parking": "",
+        "easy_pay": "",
+        "whatsapp_group": ""
+        },
+        "payment_standard": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": "",
+        "bigbird": ""
+        },
+        "package_price_list": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": "",
+        "bigbird": ""
+        },
+        "dedicate_services": {
+        "goldenbird": "",
+        "silverbird": ""
+        },
+        "complimentary_services": {
+        "goldenbird": "",
+        "silverbird": "",
+        "bluebird": ""
+        },
+        "caution": {
+        "caution_1": "",
+        "caution_2": ""
+        },
+        "note": {
+        "note_1": "",
+        "note_2": ""
+        }
+    }
+    }
+]
