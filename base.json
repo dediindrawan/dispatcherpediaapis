@@ -8,7 +8,12 @@
     "gmaps": "https://maps.app.goo.gl/NvHAfViTmhrxkobt7",
     "habbits": {
         "base": {
-        "shift_1": "",
+        "shift_1": [
+            "Ambil laptop dan MC (jika ada) di Concierge",
+            "Minta print-out list order hari ini di Concierge",
+            "Minta print jurnal tanggal kemarin di Concierge",
+            "Setelah balancing simpan jurnal dan strapless MC di print-out jurnal tersebut"
+        ],
         "shift_2": "",
         "single_shift": "",
         "goldenbird_standby": "",
