@@ -10,14 +10,25 @@
         "base": {
         "shift_1": [
             "Ambil laptop dan MC (jika ada) di Concierge",
-            "Minta print-out list order hari ini di Concierge",
-            "Minta print jurnal tanggal kemarin di Concierge",
-            "Setelah balancing simpan jurnal dan strapless MC di print-out jurnal tersebut"
+            "Minta print-out translog order hari ini di Concierge",
+            "Minta print jurnal tanggal kemarin sebanyak 2 rangkap di Front Office (FO)",
+            "Satu rangkap disimpan oleh Dispatcher, dan satu rangkap diberikan ke Accounting hotel melalui FO"
         ],
-        "shift_2": "",
-        "single_shift": "",
-        "goldenbird_standby": "",
-        "silverbird_standby": ""
+        "shift_2": [
+            "Kembalikan laptop ke Concierge",
+            "Titipkan MC untuk pemakaian besok (jika ada) ke Concierge",
+            "Jika ada order transport untuk pemakaian besok, langsung input ke sistem pada masing-masing order"
+        ],
+        "single_shift": "Gabungan dari semua kebiasaan shift 1 dan shift 2",
+        "goldenbird_standby": [
+            "Pangkalan Goldenbird dan Silverbird berada di tempat yang sama, yaitu di sudut kanan area lobi hotel",
+            "Parkir gratis"
+        ],
+        "silverbird_standby": [
+            "Pangkalan Silverbird dan Goldenbird berada di tempat yang sama, yaitu di sudut kanan area lobi hotel",
+            "Disini memiliki 2 unit dedicate Silverbird dengan 3 pengemudi (BS675 & BS843) (Pak. Bimbim, Pak. Raka, & Pak. Nanda)",
+            "Parkir gratis"
+        ]
         },
         "dispatcher": {
         "eat": "",
@@ -65,11 +76,34 @@
     "gmaps": "https://maps.app.goo.gl/D7LLqKRijuxdJZc58",
     "habbits": {
         "base": {
-        "shift_1": "",
-        "shift_2": "",
-        "single_shift": "",
-        "goldenbird_standby": "",
-        "silverbird_standby": ""
+        "shift_1": [
+            "Ambil laptop dan MC (jika ada) di Concierge",
+            "Minta print-out list order hari ini di Concierge",
+            "Minta print jurnal tanggal kemarin di Concierge",
+            "Setelah balancing simpan jurnal dan strapless MC di print-out jurnal tersebut"
+        ],
+        "shift_2": [
+            "Kembalikan laptop ke Concierge",
+            "Titipkan MC untuk pemakaian besok (jika ada) dan minta di posting ke Concierge",
+            "Jika ada order Goldenbird Denza untuk besok bisa note di sistem tackle driver dedicate SJ",
+            "Jika ada order Silverbird di jam menjelang pagi bisa PSB (upgrade) ke driver Goldenbird kalong",
+            "Kecuali hari Minggu jika ada order Silverbird boleh di order hingga maksimal jam 08.00",
+            "Kecuali hari Minggu jika ada order Goldenbird di atas jam 09.00 tidak perlu di BCin",
+            "Khusus di hari Minggu jika ada order Silverbird boleh di order hingga maksimal jam 10.00",
+            "Khusus di hari Minggu jika ada order Goldenbird maksimal jam 10.00 boleh di BCin, jika di atas jam 10.00 boleh di HOin",
+            "Share screenshot order besok di WhatsApp grup Dispatcher Concierge sebelum closing",
+            "Sebelum closing informasikan ke Channel 3 bahwa di SJ ada Goldenbird kalong standby"
+        ],
+        "single_shift": "Gabungan dari semua kebiasaan shift 1 dan shift 2",
+        "goldenbird_standby": [
+            "Pangkalan Goldenbird bisa standby di basement",
+            "Minta bantuan Concierge untuk proses free parking Goldenbird standby",
+            "Disini memiliki 2 dedicate Goldenbird Denza (Pak. Apud Mahpudin & Pak. Muchtar Chaerudin) dan 1 unit BMW I7 (Pak. Agus Kurniadi)"
+        ],
+        "silverbird_standby": [
+            "Pangkalan Silverbird standby hanya boleh 1 unit di lobby hotel, sisanya bisa arahkan standby di basement",
+            "Parkir gratis"
+        ]
         },
         "dispatcher": {
         "eat": "",
