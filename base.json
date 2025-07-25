@@ -19,7 +19,9 @@
             "Titipkan MC untuk pemakaian besok (jika ada) ke Concierge",
             "Jika ada order transport untuk pemakaian besok, langsung input ke sistem pada masing-masing order"
         ],
-        "single_shift": "Gabungan dari semua kebiasaan shift 1 dan shift 2",
+        "single_shift": [
+            "Gabungan dari semua kebiasaan shift 1 dan shift 2"
+        ],
         "goldenbird_standby": [
             "Pangkalan Goldenbird dan Silverbird berada di tempat yang sama, yaitu di sudut kanan area lobi hotel",
             "Parkir gratis"
@@ -31,16 +33,42 @@
         ]
         },
         "dispatcher": {
-        "eat": "",
-        "parking": "",
-        "easy_pay": "",
-        "whatsapp_group": ""
+        "eat": [
+            "Dispatcher diizinkan gratis makan dengan melakukan scan QR Code di kantin"
+        ],
+        "parking": [
+            "Parkir motor bisa ke pintu masuk belakang hotel Ritz Carlton, dan pilih area parkir motor karyawan JW Marriott sebelah kanan (gratis)"
+        ],
+        "easy_pay": [
+            "Untuk login nomor handphone dan password Easy Pay bisa hubungi Mba Murni, Dhea, atau Fahrizal"
+        ],
+        "whatsapp_group": [
+            "Terdapat grup whatsapp Dispatcher JWM untuk berkomunikasi antara Dispatcher dan tim hotel",
+            "Terdapat grup whatsapp Dedicate JW Marriott untuk berkomunikasi antara Dispatcher dan pengemudi dedicate"
+        ]
         },
         "payment_standard": {
-        "goldenbird": "",
-        "silverbird": "",
-        "bluebird": "",
-        "bigbird": ""
+        "goldenbird": [
+            "Untuk charge room airport transfer, tambahkan tax 10%",
+            "Untuk charge room Pick up Drop Office (PDO) tidak perlu tax, cukup tambahkan kasbon jika ada",
+            "Untuk layanan hourly dan charter, gunakan rumus: Harga Dasar + Kasbon + Tax 10%"
+        ],
+        "silverbird": [
+            "Proses pembayaran charge room gunakan akun Easy Pay Dispatcher Marriott",
+            "Untuk charge room airport transfer, tambahkan tax 10%",
+            "Untuk charge room drop office, paket hourly, dan paket charter, jangan tambahkan tax",
+            "Untuk charge room yang bukan termasuk paket hourly, gunakan meter argo + tax 10%",
+            "Untuk penjemputan dari office ke hotel, silakan lakukan pemesanan melalui aplikasi MyBb",
+            "Untuk charge room gunakan harga paket yang telah ditentukan",
+            "Untuk charge room yang tidak masuk di list harga paket silakan cek estimasi argo di aplikasi, lalu di kali dua"
+        ],
+        "bluebird": [
+            "Kecuali complimentary silakan order melalui aplikasi MyBb",
+            "Kecuali complimentary pembayaran hanya bisa cash atau Easy Pay tamu"
+        ],
+        "bigbird": [
+            "Untuk layanan pick up, drop off, hourly, dan charter, gunakan rumus: Harga Dasar + Kasbon + Tax 10%"
+        ]
         },
         "package_price_list": {
         "goldenbird": "",
@@ -94,7 +122,9 @@
             "Share screenshot order besok di WhatsApp grup Dispatcher Concierge sebelum closing",
             "Sebelum closing informasikan ke Channel 3 bahwa di SJ ada Goldenbird kalong standby"
         ],
-        "single_shift": "Gabungan dari semua kebiasaan shift 1 dan shift 2",
+        "single_shift": [
+            "Gabungan dari semua kebiasaan shift 1 dan shift 2"
+        ],
         "goldenbird_standby": [
             "Pangkalan Goldenbird bisa standby di basement",
             "Minta bantuan Concierge untuk proses free parking Goldenbird standby",
